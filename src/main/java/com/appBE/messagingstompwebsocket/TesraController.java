@@ -1,4 +1,4 @@
-package com.example.messagingstompwebsocket;
+package com.appBE.messagingstompwebsocket;
 
 import java.util.Scanner;
 import java.util.concurrent.ExecutionException;
@@ -17,9 +17,8 @@ import java.util.concurrent.TimeoutException;
 //     }
 // }
 import java.util.concurrent.atomic.AtomicLong;
-
-// import com.example.client.AddWarn;
-import com.example.client.MyStompSessionHandler;
+import com.appBE.model.Warn;
+import com.appBE.client.MyStompSessionHandler;
 // import com.example.client.StompClient;
 
 import org.springframework.beans.factory.annotation.Autowired;

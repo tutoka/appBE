@@ -1,4 +1,4 @@
-package com.example.client;
+package com.appBE.client;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
@@ -9,7 +9,7 @@ import org.springframework.messaging.simp.stomp.StompSessionHandlerAdapter;
 
 import java.lang.reflect.Type;
 
-import com.example.messagingstompwebsocket.Warn;
+import com.appBE.model.Warn;
 
 
 /**

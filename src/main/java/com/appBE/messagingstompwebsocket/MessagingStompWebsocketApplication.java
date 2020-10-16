@@ -1,4 +1,4 @@
-package com.example.messagingstompwebsocket;
+package com.appBE.messagingstompwebsocket;
 
 // import com.example.client.StompClient;
 

@@ -1,4 +1,4 @@
-package com.example.messagingstompwebsocket;
+package com.appBE.model;
 
 public class Warn {
 

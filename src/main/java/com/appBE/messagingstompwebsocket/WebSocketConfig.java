@@ -1,4 +1,4 @@
-package com.example.messagingstompwebsocket;
+package com.appBE.messagingstompwebsocket;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
